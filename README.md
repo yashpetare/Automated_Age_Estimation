@@ -1,6 +1,6 @@
-<a href = "https://www.kaggle.com/code/gmudit/stock-market-price-prediction">Link to KAGGLE NOTEBOOK</a> : See fully executed python notebook
+<a href = "">Link to KAGGLE NOTEBOOK</a> : See fully executed python notebook
 <div>
-  <h1 style="color:red;"><b><u>KRITI 2023 : Stock-Market-Price Prediction</u></b></h1>
+  <h1 style="color:red;"><b><u>Stock-Market-Price Prediction</u></b></h1>
   <p>
     <h3>Brief:</h3>
 Stock Price Prediction using machine learning helps you discover the future value of company stock and other financial assets traded on an exchange. 
